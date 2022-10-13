@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yocker
-- 👀 I’m interested in Web Security and software development
+- 👀 I’m interested in Web Security and Software Development
 - 🌱 I’m currently learning SQL Injection
 - 💞️ I’m looking to collaborate on open source project
 - 📫 My WeChat： 13902722420.
